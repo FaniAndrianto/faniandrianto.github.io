@@ -10,3 +10,11 @@
 section {
   padding-top: 5rem;
 }
+
+.certificate.img {
+  width: 100%;
+}
+
+#certificate .row > * {
+  padding: 0;
+}
